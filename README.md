@@ -9,7 +9,9 @@ __捋一捋这些年一起薅过的羊毛(免费主机)__
  
  
  1. InfinityFree
+
 https://infinityfree.net/
+
 
 具有 400 多种不同应用程序的自动安装程序，包括 WordPress
 
@@ -30,7 +32,9 @@ https://infinityfree.net/
 
 
 2.ultifreehosting
+
 https://ultifreehosting.com/
+
 
 这个也极力推荐!!!!
 
@@ -45,7 +49,10 @@ https://ultifreehosting.com/
 
 
 3. 000WebHost
+
 https://www.000webhost.com/
+
+
 000WebHost 是 Hostinger 提供的免费托管选项。 它的一些功能包括：
 
 一个网站
@@ -62,8 +69,11 @@ https://www.000webhost.com/
 还行,注册难度较高
 
 
-4. FreeHosting 从其两个数据中心提供免费和付费托管服务。 使用免费计划，您可以获得：
+4. FreeHosting 
+：
 https://www.freehosting.com/
+
+
 一个网站
 
 没有子域
@@ -80,4 +90,6 @@ https://www.freehosting.com/
 
 
 5. http://www.ultimatefreehost.in/
-6. 印度阿三的,除了能申请无限主机之外,别的都是垃圾
+
+
+7. 印度阿三的,除了能申请无限主机之外,别的都是垃圾
